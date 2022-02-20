@@ -3,6 +3,6 @@ package com.bjpowernode.service;
 public class UsbSellImpl implements UsbSell {
     @Override
     public String m() {
-        return "分支1";
+        return "分支m";
     }
 }
